@@ -1,0 +1,11 @@
+[filament_switch_sensor Before]
+pause_on_runout: False
+runout_gcode: RESPOND MSG="Antes - No filament"
+event_delay: 0.1
+switch_pin: !PA2 ;TX2
+
+[filament_switch_sensor After]
+pause_on_runout: False
+runout_gcode: RESPOND MSG="Despues - No filament"
+event_delay: 0.1
+switch_pin: !PA3 ;RX2
