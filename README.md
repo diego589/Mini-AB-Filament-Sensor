@@ -1,4 +1,5 @@
-Filament sensor for Dragon Mini AB (Not tested with Dragonfly but should work).
+# Filament sensor for Dragon Mini AB
+Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el filamento o si hay un clog en el extrusor. Probado en Dragon normal flow, no se ha probado en Dragonfly, pero deberia funcionar.
 
 # BOM
 ## For both (before and after the extruder's gears)
