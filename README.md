@@ -13,7 +13,7 @@ BOM If you only want a sensor before the extruder:
 - 1x 4mm ball bearings
 - 2x Disc magnets
 - 10k ohm resistor
-- [Thin wires, 32 AWG recommended](https://www.aliexpress.com/item/32882386535.html)
+- Thin wires, 32 AWG recommended
 
 ## Tools needed
 - Multimeter
