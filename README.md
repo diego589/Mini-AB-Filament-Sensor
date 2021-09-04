@@ -36,7 +36,7 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 1. Insert 6 balls in **1**
 2. Insert magnet in **1**
 3. Make sure that magnet is around 2mm down the tunnel, if not, then push it using filament or something similar
-4. Test your clearances by inserthing filament, when there is no filament the magnet should be 2mm down the tunnel and when the filament is loaded the magnet, should raise up about 2mm
+4. Test your clearances by inserting filament, when there is no filament the magnet should be 2mm down the tunnel and when the filament is loaded, the magnet should raise up about 2mm
 
 
 
