@@ -44,13 +44,13 @@ BOM If you only want a sensor before the extruder:
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
-13. Route the cables. In the black circle in the second picture can be seen what needs to be filed. If you dont want to file, print _Cowling_Dragon.stl_
+12. Route the cables. In the black circle in the second picture can be seen what needs to be filed. If you dont want to file, print _Cowling_Dragon.stl_
 
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
 
- 12. Choose any pin available in your board and connect the wires. RX2 and TX2 are recommended because they are next to each other and GND +5V. See _TestCode.txt_
+13. Choose any pin available in your board and connect the wires. RX2 and TX2 are recommended because they are next to each other and GND +5V. See _TestCode.txt_
  
  ![skr e3 2 0](https://user-images.githubusercontent.com/67475249/132079748-d0abf244-5354-479a-8e0c-bf18af6764ff.png)
 
