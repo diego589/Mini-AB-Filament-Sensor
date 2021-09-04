@@ -29,7 +29,7 @@ Filament sensor for Dragon Mini AB (Not tested with Dragonfly but should work).
 - _Mid_Body.stl_ - Needed
 - Recommended to print 2 copies of every hall sensor holder
 - _Cowling_Dragon.stl_ - Not needed at all, but print it if you don't want to sand it down (step 12)
-- 
+
 # Instructions
 ![Cut2](https://user-images.githubusercontent.com/67475249/132077526-349f1146-a096-41ef-b85d-1fae97070d25.png)
 1. Insert 6 balls in **1**
