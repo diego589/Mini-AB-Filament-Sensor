@@ -29,7 +29,7 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 # Printed parts
 - _Mid_Body.stl_ - Needed
 - Recommended to print 2 copies of every hall sensor holder
-- _Cowling_Dragon.stl_ - Not needed at all, but print it if you don't want to sand it down (step 12)
+- _Cowling_Dragon.stl_ - Not needed at all, but print it if you don't want to sand it down (step 13)
 
 # Instructions
 ![Cut2](https://user-images.githubusercontent.com/67475249/132077526-349f1146-a096-41ef-b85d-1fae97070d25.png)
@@ -46,8 +46,8 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 
  ![u18](https://user-images.githubusercontent.com/67475249/132078144-125efee8-cbf2-4fad-b4a4-a07cc85edf7b.PNG)
  
-7. Test your circuit, move the hall sensor towards both magnets and check with a multimeter, it should read 5v or 0v when they are close and 0v or 5v if they aren't 
-8. Insert the hall sensor in HallSensorHolder145-145.stl, then insert the holder with the sensor in **2** (small face of sensor pointing towards **3**). **DO NOT** force it yet
+8. Test your circuit, move the hall sensor towards both magnets and check with a multimeter, it should read 5v or 0v when they are close and 0v or 5v if they aren't 
+9. Insert the hall sensor in HallSensorHolder145-145.stl, then insert the holder with the sensor in **2** (small face of sensor pointing towards **3**). **DO NOT** force it yet
 
 10. Load and unload filament and check with a multimeter if there is any variation, if the voltage doesn't change, rotate hall sensor and repeat
    * if everything is working, push the hallsensor holder in place
@@ -57,12 +57,12 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
-12. Route the cables. In the black circle in the second picture can be seen what needs to be sanded. If you dont want to sand, print _Cowling_Dragon.stl_
+13. Route the cables. In the black circle in the second picture can be seen what needs to be sanded. If you dont want to sand, print _Cowling_Dragon.stl_
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
 
-13. Choose any pin available in your board and connect the wires. RX2 and TX2 are recommended because they are next to each other and GND +5V. See _TestCode.txt_
+14. Choose any pin available in your board and connect the wires. RX2 and TX2 are recommended because they are next to each other and GND +5V. See _TestCode.txt_
  
  ![skr e3 2 0](https://user-images.githubusercontent.com/67475249/132079748-d0abf244-5354-479a-8e0c-bf18af6764ff.png)
 
