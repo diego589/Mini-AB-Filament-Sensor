@@ -11,16 +11,16 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 
 ## BOM If you only want a sensor before the gears:
 - 1x Digital hall sensor
-- 1x ball bearings
-- 2x Round Neodymium Magnets
-- 10k ohm resistor
+- 1x ball bearing
+- 2x Magnets
+- 1x resistor
 - Thin wires
 
 ## BOM If you only want a sensor before the gears:
 - 1x Digital hall sensor
 - 6x ball bearings
-- 2x Round Neodymium Magnets
-- 10k ohm resistor
+- 2x Magnets
+- 1x resistor
 - Thin wires
 
 ## Tools needed
