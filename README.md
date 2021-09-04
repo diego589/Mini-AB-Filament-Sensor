@@ -38,13 +38,8 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 3. Make sure that magnet is around 2mm down the tunnel, if not, then push it using filament or something similar
 4. Test your clearances by inserting filament, when there is no filament the magnet should be 2mm down the tunnel and when the filament is loaded, the magnet should raise up about 2mm
 
-
-
 ![Filament loaded](https://user-images.githubusercontent.com/67475249/132095333-1b69d459-0445-4db0-bcaa-d3d98d68a5bc.PNG)
 ![Untitled](https://user-images.githubusercontent.com/67475249/132095385-33e1fe7b-fb2e-4527-8164-fc9859a71c98.png)
-
-
-
 
 6. Insert a magnet in **3**, it should repel the magnet in **1**. If you inserted it in the wrong orientation use an 1.5 or 2mm drill bit to remove it out of the hole
 7. Prepare hall sensor, solder resistor at least 10 cm from the sensor
@@ -57,14 +52,12 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 10. Load and unload filament and check with a multimeter if there is any variation, if the voltage doesn't change, rotate hall sensor and repeat
    * if everything is working, push the hallsensor holder in place
    * if it's not working, remove it and try with a different sensor holder, then repeat
-   
 11. Repeat steps 1-9 for sensor before extruder gears, but insert only 1 ball in **4**
 12. Bend pins in both hall sensors, nothing can be taller than the highlighted part in the picture. Hot glue could be needed
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
 12. Route the cables. In the black circle in the second picture can be seen what needs to be sanded. If you dont want to sand, print _Cowling_Dragon.stl_
-
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
