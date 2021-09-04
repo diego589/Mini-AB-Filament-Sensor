@@ -21,7 +21,7 @@ Filament sensor for Dragon Mini AB (Not tested with Dragonfly but should work).
 - 2x Round Neodymium Magnets
 - 10k ohm resistor
 - Thin wires
-- 
+
 ## Tools needed
 - Multimeter
 
