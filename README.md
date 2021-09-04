@@ -6,12 +6,14 @@ Filament sensor before and after extruder for Dragon Mini AB. Not tested in Drag
 - [7x 4mm ball bearings](http://www.aliexpress.com/item/1005002383413769.html)
 - [4x Disc magnets, diameter 5mm width 3mm](https://www.aliexpress.com/item/1005002226737225.html)
 - 2x 10k ohm resistor
+- [Thin wires, 32 AWG recommended](https://www.aliexpress.com/item/32882386535.html)
 
 BOM If you only want a sensor before the extruder:
 - 1x hall sensor
 - 1x 4mm ball bearings
 - 2x Disc magnets
 - 10k ohm resistor
+- [Thin wires, 32 AWG recommended](https://www.aliexpress.com/item/32882386535.html)
 
 ## Tools needed
 - Multimeter
