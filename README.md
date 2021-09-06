@@ -1,5 +1,5 @@
 # Filament sensor for Dragon Mini AB
-I wanted to create an invisible filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
+I wanted to create an invisible filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder gears. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
 
 ![asd](https://user-images.githubusercontent.com/67475249/132254078-3706d5db-6af6-4ea0-96f7-3bd99b3e7835.jpeg)
 
