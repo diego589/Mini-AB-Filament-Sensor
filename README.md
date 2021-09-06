@@ -56,7 +56,7 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
-13. Route your cable following the path as shown in the image below. If you didn't print "Cowling_Dragon.stl" you have to sand a a path down yourself
+13. Route your cable following the path as shown in the image below. If you didn't print "Cowling_Dragon.stl" you have to sand a a path down yourself (black circle in image below)
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
