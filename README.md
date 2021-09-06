@@ -1,6 +1,8 @@
 # Filament sensor for Dragon Mini AB
 I wanted to create a filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
 
+![asd](https://user-images.githubusercontent.com/67475249/132254078-3706d5db-6af6-4ea0-96f7-3bd99b3e7835.jpeg)
+
 # BOM
 ## For both (before and after the extruder's gears)
 - [2x digital hall sensor](http://aliexpress.com/item/32312432947.html), it doesn't matter if it's [latching or not latching](https://maker.pro/arduino/tutorial/how-to-use-a-hall-effect-sensor-with-arduino). I'm using U18
