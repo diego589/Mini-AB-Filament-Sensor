@@ -52,7 +52,7 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
    * if everything is working, push the hallsensor holder in place
    * if it's not working, remove it and try with a different sensor holder, then repeat
 11. For the sensor that goes before the gears follow the same instructions but use just 1 ball bearing instead
-12. Bend the sensor pins until they are flush with the highlighted part (image below) - QUIERO QUE LOS PINES DE LOS SENSORES QUEDEN MAS ABAJO QUE LA PARTE RESALTADA EN LA FOTO, NO PEGADOS
+12. Bend the sensor pins until they are below the highlighted part (image below)
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
