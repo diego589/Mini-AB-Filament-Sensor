@@ -51,17 +51,17 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 10. Load and unload filament and check with a multimeter if there is any variation, if the voltage doesn't change, rotate hall sensor and repeat
    * if everything is working, push the hallsensor holder in place
    * if it's not working, remove it and try with a different sensor holder, then repeat
-11. Repeat steps 1-9 for sensor before extruder gears, but insert only 1 ball in **4**
-12. Bend pins in both hall sensors, nothing can be taller than the highlighted part in the picture. Hot glue could be needed
+11. For the sensor that goes before the gears follow the same instructions but use just 1 ball bearing instead
+12. Bend the sensor pins until they are flush with the highlighted part (image below) - QUIERO QUE LOS PINES DE LOS SENSORES QUEDEN MAS ABAJO QUE LA PARTE RESALTADA EN LA FOTO, NO PEGADOS
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
-13. Route the cables. In the black circle in the second picture can be seen what needs to be sanded. If you dont want to sand, print _Cowling_Dragon.stl_
+13. Route your cable following the path as shown in the image below. If you didn't print "Cowling_Dragon.stl" you have to sand a a path down yourself
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
 
-14. Choose any pin available in your board and connect the wires. RX2 and TX2 are recommended because they are next to each other and GND +5V. See _TestCode.txt_
+14. Choose any available pin on your board. In this case I am using RX2 and TX2 because they are right next to GND and +5v. See _TestCode.txt_
  
  ![skr e3 2 0](https://user-images.githubusercontent.com/67475249/132079748-d0abf244-5354-479a-8e0c-bf18af6764ff.png)
 
