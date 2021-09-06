@@ -49,8 +49,8 @@ Queria crear un sensor de filamento dentro toolhead para revisar si se acaba el 
 8. Test your circuit, move the hall sensor towards both magnets and check with a multimeter, it should read 5v or 0v when they are close and 0v or 5v if they aren't 
 9. Insert the hall sensor in HallSensorHolder145-145.stl, then insert the holder with the sensor in **2** (small face of sensor pointing towards **3**). **DO NOT** force it yet
 10. Load and unload filament and check with a multimeter if there is any variation, if the voltage doesn't change, rotate hall sensor and repeat
-   * if everything is working, push the hallsensor holder in place
-   * if it's not working, remove it and try with a different sensor holder, then repeat
+   * If everything is working, push the hallsensor holder in place
+   * If it's not working, remove it and try with a different sensor holder, then repeat
 11. For the sensor that goes before the gears follow the same instructions but use just 1 ball bearing instead
 12. Bend the sensor pins until they are below the highlighted part (image below)
 
