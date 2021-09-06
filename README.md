@@ -25,7 +25,7 @@ I wanted to create a filament sensor inside the toolhead to check if the filamen
 - 1x resistor
 - Thin wires
 
-## Tools needed
+## Tools
 - Multimeter
 
 # Printed parts
