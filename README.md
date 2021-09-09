@@ -18,7 +18,7 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 - 1x resistor
 - Thin wires
 
-## BOM If you only want a sensor before the gears:
+## BOM If you only want a sensor after the gears:
 - 1x Digital hall sensor
 - 6x ball bearings
 - 2x Magnets
@@ -29,9 +29,9 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 - Multimeter
 
 # Printed parts
-- _Mid_Body.stl_ - Needed
+- _[a]FS_Mid_Body.stl_ - Needed
 - Recommended to print 2 copies of every hall sensor holder
-- _Cowling_Dragon.stl_ - Not needed at all, but print it if you don't want to sand it down (step 13)
+- _[a]FS_Cowling_Dragon.stl_ - Not needed at all, but print it if you don't want to sand it down (step 13)
 
 # Instructions
 ![Cut2](https://user-images.githubusercontent.com/67475249/132077526-349f1146-a096-41ef-b85d-1fae97070d25.png)
@@ -58,7 +58,7 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 
 ![Capture](https://user-images.githubusercontent.com/67475249/132079892-3765e3a6-2719-4336-a23c-b147f8357271.PNG)
 
-13. Route your cable following the path as shown in the image below. If you didn't print "Cowling_Dragon.stl" you have to sand a a path down yourself (black circle in image below)
+13. Route your cable following the path as shown in the image below. If you didn't print _[a]FS_Cowling_Dragon.stl_ you have to sand a a path down yourself (black circle in image below)
 
 ![Cable path](https://user-images.githubusercontent.com/67475249/132078872-913ee597-7d4d-4c8c-8d2f-637c7ced4135.jpeg)
 ![file](https://user-images.githubusercontent.com/67475249/132079048-aeaa3e7a-c9e1-4481-bddb-add37ee8c292.PNG)
