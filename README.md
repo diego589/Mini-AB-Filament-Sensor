@@ -60,15 +60,12 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 
 13. Route your cable following the path as shown in the image below. If you didn't print _[a]FS_Cowling_Dragon.stl_ you have to sand a a path down yourself (black circle in image below)
 
-![f7](/Images/Path.jpeg)
-![f8](/Images/Path2.PNG)
+<img src = "/Images/Path.jpeg" height = 300> <img src = "/Images/Path2.PNG" height = 300>
 
 14. Choose any available pin on your board. In this case I am using RX2 and TX2 because they are right next to GND and +5v. See _TestCode.txt_
  
 ![f9](/Images/skre3-2.0.png)
 
 # Photos
-![f10](/Images/cut.png)
-![f11](/Images/Final.png)
-![f12](/Images/MidBody.png.png)
-![f13](/Images/Sensors.jpeg)
+<img src = "/Images/Cut.png" height = 400> <img src = "/Images/Final.jpeg" height = 400>
+<img src = "/Images/MidBody.png" height = 400> <img src = "/Images/Sensors.jpeg" height = 400>
