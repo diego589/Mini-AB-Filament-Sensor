@@ -48,8 +48,8 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 
 ![f5](/Images/u18.PNG)
  
-8. Test your circuit, move the hall sensor towards both magnets and check with a multimeter, it should read 5v or 0v when they are close and 0v or 5v if they aren't 
-9. Insert the hall sensor in HallSensorHolder145-145.stl, then insert the holder with the sensor in **2** (small face of sensor pointing towards **3**). **DO NOT** force it yet
+8. Test your circuit, move the hall sensor towards each magnets and check with a multimeter between GND and OUT, it should read 5v next to one and 0v next to the other
+9. Insert the hall sensor in _[a]HallSensorHolder145-145.stl_, then insert the holder with the sensor in **2** (small face of sensor pointing towards **3**). **DO NOT** force it yet
 11. Load and unload filament and check with a multimeter if there is any variation, if the voltage doesn't change, rotate hall sensor and repeat
    * If everything is working, push the hallsensor holder in place
    * If it's not working, remove it and try with a different sensor holder, then repeat
