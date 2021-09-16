@@ -44,7 +44,7 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 ![f4](/Images/Unload.png)
 
 6. Insert a magnet in **3**, it should repel the magnet in **1**. If you inserted it in the wrong orientation use an 1.5 or 2mm drill bit to remove it out of the hole
-7. Prepare hall sensor, solder resistor at least 10 cm from the sensor
+7. Prepare hall sensor, solder resistor at no less than 10 cm from the sensor
 
 ![f5](/Images/u18.PNG)
  
