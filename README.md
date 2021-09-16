@@ -58,7 +58,7 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 
 ![f6](/Images/Limit.PNG)
 
-13. Route your cable following the path as shown in the image below. If you didn't print _[a]FS_Cowling_Dragon.stl_ you have to sand a a path down yourself (black circle in image below)
+13. Route your cable following the path as shown in the image below. If you didn't print _[a]FS_Cowling_Dragon.stl_ you have to sand a path down yourself (black circle in image below)
 
 <img src = "/Images/Path.jpeg" height = 300> <img src = "/Images/Path2.PNG" height = 300>
 
