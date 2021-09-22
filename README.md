@@ -43,8 +43,7 @@ I wanted to create an invisible filament sensor inside the toolhead to check if 
 3. Make sure that magnet is around 2mm down the tunnel, if not, then push it using filament or something similar
 4. Test your clearances by inserting filament, when there is no filament the magnet should be 2mm down the tunnel and when the filament is loaded, the magnet should raise up about 2mm
 
-![f3](/Images/Load.png)
-![f4](/Images/Unload.png)
+https://user-images.githubusercontent.com/67475249/134376186-ed08a0d5-9afd-461a-8bc8-b10c32558bfe.mp4
 
 6. Insert a magnet in **3**, it should repel the magnet in **1**. If you inserted it in the wrong orientation use an 1.5 or 2mm drill bit to remove it out of the hole
 7. Prepare hall sensor, solder resistor at no less than 10 cm from the sensor
