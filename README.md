@@ -1,5 +1,5 @@
 # UNDER CONSTRUCTION - NOT RECOMMENDED TO PRINT YET
-Working on bowden fitting
+Waiting for bowden fitting to arrive from China, maybe in mid october.
 
 # Filament sensor for Dragon Mini AB
 I wanted to create an invisible filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder gears. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
