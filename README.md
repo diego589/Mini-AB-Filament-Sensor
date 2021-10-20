@@ -69,5 +69,5 @@ https://user-images.githubusercontent.com/67475249/134376186-ed08a0d5-9afd-461a-
 ![f9](/Images/skre3-2.0.png)
 
 # Photos
-<img src = "/Images/Cut.png" height = 400> <img src = "/Images/Final.jpeg" height = 400>
+<img src = "/Images/Cut.png" height = 400> <img src = "/Images/Final.jpg" height = 400>
 <img src = "/Images/MidBody.png" height = 400> <img src = "/Images/Sensors.jpeg" height = 400>
