@@ -4,7 +4,9 @@ Waiting for bowden fitting to arrive from China, maybe in mid october.
 # Filament sensor for Dragon Mini AB
 I wanted to create an invisible filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder gears. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
 
-![f1](/Images/Comparison.jpeg)
+<img src = "/Images/Final.jpg" height = 500> 
+
+https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-a8a0-9267f2467829.mp4
 
 # BOM
 ## For both (before and after the extruder's gears)
