@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-
 
 # BOM
 ## For both (before and after the extruder's gears)
+- 1x M6 Nut
+- [1x Pneumatic Fittings PC4 - M6](https://www.aliexpress.com/item/32844004441.html)
 - [2x digital hall sensor](http://aliexpress.com/item/32312432947.html), it doesn't matter if it's [latching or not](https://maker.pro/arduino/tutorial/how-to-use-a-hall-effect-sensor-with-arduino). I'm using U18
 - [7x 4mm ball bearings](http://www.aliexpress.com/item/1005002383413769.html)
 - [4x 5mm x 3mm Round Neodymium Magnets](https://www.aliexpress.com/item/1005002226737225.html)
@@ -17,6 +19,8 @@ https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-
 - [Thin wires, 32 AWG recommended](https://www.aliexpress.com/item/32882386535.html)
 
 ## BOM If you only want a sensor before the gears:
+- 1x M6 Nut
+- 1x Pneumatic Fittings PC4 - M6
 - 1x Digital hall sensor
 - 1x ball bearing
 - 2x Magnets
@@ -24,6 +28,8 @@ https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-
 - Thin wires
 
 ## BOM If you only want a sensor after the gears:
+- 1x M6 Nut
+- 1x Pneumatic Fittings PC4 - M6
 - 1x Digital hall sensor
 - 6x ball bearings
 - 2x Magnets
