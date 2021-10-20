@@ -1,6 +1,3 @@
-# UNDER CONSTRUCTION - NOT RECOMMENDED TO PRINT YET
-Waiting for bowden fitting to arrive from China, maybe in mid october.
-
 # Filament sensor for Dragon Mini AB
 I wanted to create an invisible filament sensor inside the toolhead to check if the filament runs out or if there is a clog in the extruder gears. Tested on Dragon normal flow, not tested on Dragonfly, but it should work.
 
@@ -46,6 +43,8 @@ https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-
 
 # Assembly
 ![f2](/Images/Numbers.png)
+
+0. Insert nut into hole and then pneumatic fitting
 1. Insert 6 balls in **1**
 2. Insert magnet in **1**
 3. Make sure that magnet is around 2mm down the tunnel, if not, then push it using filament or something similar
