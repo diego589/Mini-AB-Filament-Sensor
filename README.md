@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/67475249/138114734-22fbd80a-b481-46d0-
 # Assembly
 ![f2](/Images/Numbers.png)
 
-0. Insert nut into hole and then pneumatic fitting
+0. Insert a M6 nut into the hole and then tighten the pneumatic fitting
 1. Insert 6 balls in **1**
 2. Insert magnet in **1**
 3. Make sure that magnet is around 2mm down the tunnel, if not, then push it using filament or something similar
